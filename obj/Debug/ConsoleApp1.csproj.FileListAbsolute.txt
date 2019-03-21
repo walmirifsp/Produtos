@@ -1,0 +1,2 @@
+C:\Users\aluno\Desktop\produtos\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\produtos\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
